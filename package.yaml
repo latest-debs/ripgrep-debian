@@ -1,0 +1,8 @@
+# Package definition for ripgrep
+
+package_name: ripgrep
+github_repo: BurntSushi/ripgrep
+artifact_format: tar.gz
+description: "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
+
+# Build for all Debian suites and all supported architectures.
