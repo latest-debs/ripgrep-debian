@@ -2,6 +2,7 @@
 
 package_name: ripgrep
 github_repo: BurntSushi/ripgrep
+license: Unlicense
 artifact_format: tar.gz
 description: "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
 
